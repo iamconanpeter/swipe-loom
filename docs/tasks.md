@@ -7,8 +7,8 @@
 - [x] Add `LoomProgressManager` for best-stars and streak persistence
 - [x] Add/expand unit tests for core gameplay invariants
 - [x] Run `./gradlew test assembleDebug`
-- [ ] Commit + push repo
-- [ ] Update factory status files
+- [x] Commit + push repo
+- [x] Update factory status files
 
 ## P1 (post-MVP)
 - [ ] Daily seed rotation and puzzle-of-the-day board
